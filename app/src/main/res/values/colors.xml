@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#F4FAF6</color>
+    <color name="primary">#0E7A4A</color>
+    <color name="danger">#C62828</color>
+    <color name="stroke">#DCE9E0</color>
+    <color name="grey">#667069</color>
+    <color name="ic_launcher_background">#0E7A4A</color>
+</resources>
